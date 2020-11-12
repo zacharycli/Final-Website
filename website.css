@@ -84,6 +84,17 @@ p{
 .active {
   background-color: #4CAF50;
 }
+/* 	78439d is purple 
+	baaac5 is purplish gray
+	5f3f53 is purplish brown
+	1e1d3a is blueish black
+	baaac5 is green
+	2d2800 is greenish brown
+	80addb is light blue
+	d8ae5a is skin tone
+	000a19 is dark blue black
+	dcb4aa is pinkish skin tone
+*/
 .dropdown .dropbtnactive{
   height: "100%";
   font-size: 16px;  
