@@ -6,6 +6,15 @@ body{
 	font-family: helvetica;
 	background-color: #CCC;
 }
+
+a{
+	text-decoration: none;
+}
+a::hover{
+	text-decoration: none;
+	color: #00DD00
+}
+
 table{
 	width:100%;
 	text-align: center;
