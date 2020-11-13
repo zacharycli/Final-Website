@@ -84,11 +84,12 @@ p{
   display: block;
 }
 .active {
-  background-color: #5f3f53;
+  background-color: #7a526b;
 }
 /* 	78439d is purple 
 	baaac5 is purplish gray
 	5f3f53 is purplish brown
+	7a526b is purplish light brown
 	1e1d3a is blueish black
 	baaac5 is green
 	2d2800 is greenish brown
@@ -104,7 +105,7 @@ p{
   outline: none;
   color: #000;
   padding: 12px 16px;
-  background-color: #5f3f53;
+  background-color: #7a526b;
   font-family: inherit;
   margin: 0;
 }
