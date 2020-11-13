@@ -4,7 +4,9 @@ table, td, th{
 }
 body{
 	font-family: helvetica;
+	/*
 	background-image: url("background.jpg");
+	*/
 }
 table{
 	width:100%;
