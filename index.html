@@ -5,38 +5,58 @@
 		<link rel="stylesheet" href="website.css">
 		<link href="https://sachinchoolur.github.io/lightslider/dist/css/lightslider.css" rel="stylesheet" />
 		<link rel="icon" href="logo.png">
-		<link type="text/css" rel="stylesheet" href="css/lightslider.css" />                  
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-		<script src="https://sachinchoolur.github.io/lightslider/dist/js/lightslider.js"></script>
-		<script>
-		$('#lightSlider').lightSlider({
-    gallery: true,
-    item: 1,
-    loop:true,
-    slideMargin: 0,
-    thumbItem: 9
-});
-		</script>
+		<style>
+			@keyframes tickerv {
+				0%   {margin-top: 0;}
+				25%  {margin-top: -26px;}
+				50%  {margin-top: -52px;}
+				75%  {margin-top: -78px;}
+				100% {margin-top: 0;}
+			}
+			.tickerv-wrap {
+				background: #eee;
+				box-sizing: content-box;
+				height: 250px;
+				overflow: hidden;
+				padding: 10px;
+			} 
+			.tickerv-wrap ul {
+				padding:0;
+				margin:0;
+				list-style-type: none;
+				animation-name: tickerv;
+				animation-duration:10s;
+				animation-iteration-count: infinite;
+				animation-timing-function: cubic-bezier(1, 0, .5, 0);
+			}
+			.tickerv-wrap ul:hover {
+				animation-play-state: paused;
+			}
+			.tickerv-wrap ul li {
+				font-size:18px;
+				line-height: 26px
+			}
+		</style>
 	</head>
 	<body>
-<div class="navbar">
-		  <img src = "logo.png" width="140" align = "left">
-		  <a href="index" class = "active">Home</a>
-		  <a href="about">About us</a>
+		<div class="navbar">
+			<img src = "logo.png" width="140" align = "left">
+			<a href="index" class = "active">Home</a>
+			<a href="about">About us</a>
 			<a href="contact us">Contact us</a>
 			<a href="sponsors">Our Sponsors</a>
-		  <div class="dropdown">
-		    <button class="dropbtn">Competitions
-		      <i class="fa fa-caret-down"></i>
-		    </button>
-		    <div class="dropdown-content">
-		      <a href="f1">F1 in schools</a>
-		      <a href="bigbangfair">Big Bang Fair</a>
-		      <a href="cansat">CanSat</a>
-		    </div>
-		  </div>
-		<div class = "r">
-			<a href = "https://www.instagram.com/infiniteaquarius88/" class = "nopad" target="_blank" align = "right"><img src = "insta.png" width="50" align="right"></a>
+			<div class="dropdown">
+				<button class="dropbtn">Competitions
+					<i class="fa fa-caret-down"></i>
+				</button>
+				<div class="dropdown-content">
+					<a href="f1">F1 in schools</a>
+					<a href="bigbangfair">Big Bang Fair</a>
+					<a href="cansat">CanSat</a>
+				</div>
+			</div>
+			<div class = "r">
+				<a href = "https://www.instagram.com/infiniteaquarius88/" class = "nopad" target="_blank" align = "right"><img src = "insta.png" width="50" align="right"></a>
 			</div>
 		</div>
 		<br>
@@ -47,51 +67,6 @@
 				</td>
 			</tr>
 		</table>
-		
-<div class="col-sm-12" style="margin-top:60px;">
-                    <div class="lSSlideOuter "><div class="lSSlideWrapper usingCss" style="transition-duration: 400ms; transition-timing-function: ease;"><ul id="content-slider" class="content-slider lightSlider lsGrab lSSlide" style="width: 2520px; height: 165px; padding-bottom: 0%; transform: translate3d(-630px, 0px, 0px);"><li class="clone left" style="width: 147.5px; margin-right: 10px;">
-                            <h3>5</h3>
-                        </li><li class="clone left" style="width: 147.5px; margin-right: 10px;">
-                            <h3>6</h3>
-                        </li><li class="clone left" style="width: 147.5px; margin-right: 10px;">
-                            <h3>7</h3>
-                        </li><li class="clone left" style="width: 147.5px; margin-right: 10px;">
-                            <h3>8</h3>
-                        </li>
-                        <li class="lslide active" style="width: 147.5px; margin-right: 10px;">
-                            <h3>1</h3>
-                        </li>
-                        <li class="lslide" style="width: 147.5px; margin-right: 10px;">
-                            <h3>2</h3>
-                        </li>
-                        <li class="lslide" style="width: 147.5px; margin-right: 10px;">
-                            <h3>3</h3>
-                        </li>
-                        <li class="lslide" style="width: 147.5px; margin-right: 10px;">
-                            <h3>4</h3>
-                        </li>
-                        <li class="lslide" style="width: 147.5px; margin-right: 10px;">
-                            <h3>5</h3>
-                        </li>
-                        <li class="lslide" style="width: 147.5px; margin-right: 10px;">
-                            <h3>6</h3>
-                        </li>
-                        <li class="lslide" style="width: 147.5px; margin-right: 10px;">
-                            <h3>7</h3>
-                        </li>
-                        <li class="lslide" style="width: 147.5px; margin-right: 10px;">
-                            <h3>8</h3>
-                        </li>
-                    <li class="clone right" style="width: 147.5px; margin-right: 10px;">
-                            <h3>1</h3>
-                        </li><li class="clone right" style="width: 147.5px; margin-right: 10px;">
-                            <h3>2</h3>
-                        </li><li class="clone right" style="width: 147.5px; margin-right: 10px;">
-                            <h3>3</h3>
-                        </li><li class="clone right" style="width: 147.5px; margin-right: 10px;">
-                            <h3>4</h3>
-                        </li></ul><div class="lSAction"><a class="lSPrev"></a><a class="lSNext"></a></div></div><ul class="lSPager lSpg" style="margin-top: 5px; transform: translate3d(0px, 0px, 0px);"><li class="active"><a href="#">1</a></li><li><a href="#">2</a></li><li><a href="#">3</a></li><li><a href="#">4</a></li><li><a href="#">5</a></li><li><a href="#">6</a></li><li><a href="#">7</a></li><li><a href="#">8</a></li></ul></div>
-                </div>
 		<br>
 		<table class = "blank">
 			<tr class = "blank">
@@ -99,14 +74,14 @@
 					<img src = "Team Photo Clip.jpg" width = "100%" height = "80%">
 				</td>
 				<td class = "blank">
-					<ul>
-						<li>
-						</li>
-						<li>
-						</li>
-						<li>
-						</li>
-					</ul>
+					<div class="tickerv-wrap">
+						<ul>
+							<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+							<li>Aliquam consequat varius consequat.</li>
+							<li>Fusce dapibus turpis vel nisi malesuada sollicitudin.</li>
+							<li>Pellentesque auctor molestie orci ut blandit.</li>
+						</ul>
+					</div>
 				</td>
 			</tr>
 		</table>
