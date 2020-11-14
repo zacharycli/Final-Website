@@ -122,3 +122,6 @@ p{
 .blank{
 	background-color: #CCC;
 }
+.navbar .nopad{
+	padding: 1px 1px;
+}
