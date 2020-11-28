@@ -1,0 +1,56 @@
+@font-face {
+font-family: 'Halva Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Halva Regular'), url('Halva-qZY3r.woff') format('woff');
+}
+
+
+*{
+  font-family: Halva Regular;
+}
+.current{
+	background-color: #45106a;
+}
+.nav-item:hover{
+	background-color: #78439d;
+}
+
+.light{
+	color: #fff;
+}
+.pgray{
+	/*background-color: #aaa;*/
+	background-color: #baaac5;
+}
+.lower{
+	font-family: helvetica;
+}
+.parallax {
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.ocean{
+    min-height: 971px;
+    background-image: url("ocean.jpg")
+}
+.logo{
+	min-height: 580px;
+    background-image: url("paralogo.png")
+}
+.star{
+    min-height: 971px;
+    background-image: url("star.jpg")	
+}
+.arrow{
+  background-image: url("arrow.jpg")
+}
+.caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+
+.jumbotron{margin-bottom: 0;}
