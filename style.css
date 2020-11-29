@@ -40,7 +40,7 @@ src: local('Halva Regular'), url('Halva-qZY3r.woff') format('woff');
     background-image: url("paralogo.png")
 }
 .star{
-    min-height: 700px;
+    min-height: 971px;
     background-image: url("star.jpg")	
 }
 .arrow{
