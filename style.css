@@ -32,7 +32,7 @@ src: local('Halva Regular'), url('Halva-qZY3r.woff') format('woff');
 }
 
 .ocean{
-    min-height: 971px;
+    min-height: 700px;
     background-image: url("ocean.jpg")
 }
 .logo{
@@ -40,7 +40,7 @@ src: local('Halva Regular'), url('Halva-qZY3r.woff') format('woff');
     background-image: url("paralogo.png")
 }
 .star{
-    min-height: 971px;
+    min-height: 700px;
     background-image: url("star.jpg")	
 }
 .arrow{
