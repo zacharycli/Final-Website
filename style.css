@@ -1,56 +1,66 @@
-@font-face {
-font-family: 'Halva Regular';
-font-style: normal;
-font-weight: normal;
-src: local('Halva Regular'), url('Halva-qZY3r.woff') format('woff');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap');
+
+html {
+    scroll-behavior: smooth;
 }
 
-
-*{
-  font-family: Halva Regular;
-}
-.current{
-	background-color: #45106a;
-}
-.nav-item:hover{
-	background-color: #78439d;
+body {
+    background-color: #a370fa;
+    font-family: 'Quicksand', sans-serif;
 }
 
-.light{
-	color: #fff;
-}
-.pgray{
-	/*background-color: #aaa;*/
-	background-color: #baaac5;
-}
-.lower{
-	font-family: helvetica;
-}
-.parallax {
-  background-attachment: fixed;
-  background-size: cover;
+main {
+    background-color: #ffffff;
 }
 
-.ocean{
-    min-height: 700px;
-    background-image: url("ocean.jpg")
+.nav-link {
+    color: #ffffffdd!important;
 }
-.logo{
-	min-height: 580px;
-    background-image: url("paralogo.png")
+
+.nav-link:hover {
+    color: #ffffffff!important;
 }
-.star{
-    min-height: 971px;
-    background-image: url("star.jpg")	
+
+h1 {
+    font-weight: lighter;
 }
-.arrow{
-  background-image: url("arrow.jpg")
-}
-.caption {
-    position: absolute;
-    left: 0;
-    top: 50%;
-    width: 100%;
+
+.centreText {
     text-align: center;
+}
 
-.jumbotron{margin-bottom: 0;}
+.sectionTitle {
+    font-size: 5vw;
+    overflow: hidden;
+    font-weight: lighter;
+    margin-bottom: 2px;
+}
+
+.sectionContent {
+    font-size: 20px;
+    overflow: hidden;
+    margin-bottom: 0px;
+}
+
+.teamCard {
+    padding: 10px;
+}
+
+.card-title {
+    font-weight: bold;
+    font-size: 2vw;
+}
+
+.card-text {
+    font-size: 1.5vw;
+}
+
+.compsImage {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.card-title-mobile {
+    font-weight: bold;
+    font-size: 10vw;
+}
