@@ -13,7 +13,7 @@
             "smallText": "In a friendly competition among the team, Hugh's had the best drag coefficient.",
             "fullText": "Hugh's innovative design, after being tested using Computational Fluid Dynamics, defeated the other designs submitted by the rest of the team. Hugh stated: \"As I designed the car, I focused on the airflow and how I could try to reduce drag as much as possible. This lead to a streamlined design which took advantage of ground effect.\"",
             "hasExpandedImage": true,
-            "expandedImage": "news/shiny.png",
+            "expandedImage": "shiny.png",
             "hasCaption": true,
             "caption": "A render of the design using Fusion 360, by Hugh Anstee",
             "size": ""
@@ -24,7 +24,7 @@
             "smallText": "Algorithm Developed - Zachary wrote an algorithm to calculate time to travel 20 metres assuming constant thrust!",
             "fullText": "\"I wrote an algorithm that allows us to select a couple of possible parameters for our car, and alter them. The time taken to travel the track distance of 20m is on the y-axis, compared against the values of each parameter. The algorithm works by calculating the drag force on the car, comparing it to the thrust, and calculating overall acceleration. The program then takes this, multiplies by 0.001, and adds it to velocity. Then it multiplies the velocity by 0.001 and adds it to displacement. The 0.001 represents the portion of seconds simulated by each calculation. Because the acceleration varies, the smaller the value, the higher the precision. In future, I plan to improve the algorithm by giving it the capability to simulate the interplay between two changing parameters and to include a realistic thrust profile. Currently, I assume a continuous thrust of 10N, but this is unrealistic. Data for the canister is not readily available online, so I will likely use an approximation centred around rocketry.\"",
             "hasExpandedImage": true,
-            "expandedImage": "news/graph.png",
+            "expandedImage": "graph.png",
             "hasCaption": true,
             "caption": "Algorithm, graph by Zachary Cliff",
             "size": "lg"
