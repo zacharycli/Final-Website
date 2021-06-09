@@ -22,11 +22,8 @@
             "image": "crgs.png",
             "title": "Old Colcestrian Soceity Sponsorship",
             "smallText": "The Old Colcestrian Society has kindly sponsored us for all expenses incurred in manufacturing out car",
-            "fullText": "We have received a blank cheque for all expenses incurred from the Old Colcestrian ": true,
-            "expandedImage": "graph.png",
-            "hasCaption": true,
-            "caption": "Algorithm, graph by Zachary Cliff",
-            "size": "lg"
+            "fullText": "We have received a blank cheque for all expenses incurred from the Old Colcestrian ",
+            "hasExpandedImage": false
         }
     ],
     "about": {
