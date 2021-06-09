@@ -3,7 +3,7 @@
         {
             "image": "bl4s.jpg",
             "title": "Beamline For Schools",
-            "smallText": "We have decided upon the exeperiment we will be pursuing",
+            "smallText": "We have decided upon the experiment we will be pursuing",
             "fullText": "We have decided to test the effectiveness of different types of shielding against cosmic rays. We will be using a variety of materials, but the common denominator will be the use of a halbach array (a strong magnetic field generator) which we hope will deflect incoming charged particles. This should allow us to deflect particles with lighter shielding than would otherwise be possible",
             "hasExpandedImage": false
         },
@@ -19,11 +19,10 @@
             "size": ""
         },
         {
-            "image": "py.png",
-            "title": "Algorithm developed",
-            "smallText": "Algorithm Developed - Zachary wrote an algorithm to calculate time to travel 20 metres assuming constant thrust!",
-            "fullText": "\"I wrote an algorithm that allows us to select a couple of possible parameters for our car, and alter them. The time taken to travel the track distance of 20m is on the y-axis, compared against the values of each parameter. The algorithm works by calculating the drag force on the car, comparing it to the thrust, and calculating overall acceleration. The program then takes this, multiplies by 0.001, and adds it to velocity. Then it multiplies the velocity by 0.001 and adds it to displacement. The 0.001 represents the portion of seconds simulated by each calculation. Because the acceleration varies, the smaller the value, the higher the precision. In future, I plan to improve the algorithm by giving it the capability to simulate the interplay between two changing parameters and to include a realistic thrust profile. Currently, I assume a continuous thrust of 10N, but this is unrealistic. Data for the canister is not readily available online, so I will likely use an approximation centred around rocketry.\"",
-            "hasExpandedImage": true,
+            "image": "crgs.png",
+            "title": "Old Colcestrian Soceity Sponsorship",
+            "smallText": "The Old Colcestrian Society has kindly sponsored us for all expenses incurred in manufacturing out car",
+            "fullText": "We have received a blank cheque for all expenses incurred from the Old Colcestrian ": true,
             "expandedImage": "graph.png",
             "hasCaption": true,
             "caption": "Algorithm, graph by Zachary Cliff",
