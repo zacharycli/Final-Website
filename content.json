@@ -1,10 +1,10 @@
 {
     "news": [
         {
-            "image": "bl4s.jpg",
-            "title": "Beamline For Schools",
-            "smallText": "We have decided upon the experiment we will be pursuing",
-            "fullText": "We have decided to test the effectiveness of different types of shielding against cosmic rays. We will be using a variety of materials, but the common denominator will be the use of a halbach array (a strong magnetic field generator) which we hope will deflect incoming charged particles. This should allow us to deflect particles with lighter shielding than would otherwise be possible",
+            "image": "Second Place Award.png",
+            "title": "Second Place in the F1 in Schools Regional Final",
+            "smallText": "We are extremely excited to announce that we came second in our regional final and will be progressing to the National Final!",
+            "fullText": "We would like to take this opportunity to thank F1 in Schools for the great opportunity they have provided us. As well as winning the second place award we also won the research adn development award, where our work was described as 'industry standard'. We are now working hard to improve our performance for the National Final next October, where we hope to progress to the International Final.",
             "hasExpandedImage": false
         },
         {
