@@ -9,9 +9,9 @@
         },
         {
             "image": "wall res.png",
-            "title": "Car design finalised",
-            "smallText": "Hugh's design, after some extensive modification, is now finalised and ready to enter production",
-            "fullText": "Hugh stated: \"As I designed the car, I focused on the airflow and how I could try to reduce drag as much as possible. This lead to a streamlined design which took advantage of ground effect.\"",
+            "title": "Nationals Car in Design Process",
+            "smallText": "After the regional competiton, we have found new ways to improve our car's performance.",
+            "fullText": "Hugh stated: \"As I design our new car, I am particualrly focussing on developing the air flow around the back wing, along with developing new ideas to reduce the drag around the rest of the car.\"",
             "hasExpandedImage": true,
             "expandedImage": "shiny.png",
             "hasCaption": true,
@@ -21,14 +21,14 @@
         {
             "image": "crgs.png",
             "title": "Old Colcestrian Soceity Sponsorship",
-            "smallText": "The Old Colcestrian Society has kindly sponsored us for all expenses incurred in manufacturing out car",
-            "fullText": "We have received a blank cheque for all expenses incurred from the Old Colcestrian ",
+            "smallText": "The Old Colcestrian Society has kindly sponsored us.",
+            "fullText": "Entering a competition such as F1 in schools costs a significant amount of money, which has kindly been donated to us by the Old Colcestrian Society. ",
             "hasExpandedImage": false
         }
     ],
     "about": {
         "title": "About us",
-        "text": "We are a STEM team from <a href=\"https://www.crgs.co.uk\">Colchester Royal Grammar School</a> made up of six Year 12 students. We are an experienced team, with highlights at the National and International Finals of the <a href=\"https://www.firstlegoleague.org\">Lego League</a> competition. This year, we are competing in multiple STEM competitions, including <a href=\"https://www.f1inschools.co.uk\">F1 in Schools</a> and <a href=\"https://competition.thebigbangfair.co.uk\">The Big Bang Fair</a>.<br>All of us study STEM-related subjects, with ambitions to go into Engineering, Architecture, and other STEM fields at University."
+        "text": "We are a STEM team from <a href=\"https://www.crgs.co.uk\">Colchester Royal Grammar School</a> made up of six Year 12 students. We are an experienced team, with highlights at the National and International Finals of the <a href=\"https://www.firstlegoleague.org\">Lego League</a> competition. This year, we are competing in <a href=\"https://www.f1inschools.co.uk\">F1 in Schools</a>.<br>All of us study STEM-related subjects, with ambitions to go into Engineering, Architecture, and other STEM fields at University."
     },
     "team": {
         "title": "Meet the team",
@@ -49,13 +49,13 @@
             "text": "As Finance Manager, I collaborated heavily with Team Manager Hugh and Sponsorship and Marketing Manager Jensen. I made sure that any money we received was distributed effectively.<br><br>Doing this allowed us to enter multiple competitions and have a relevantly sized budget to be able to compete effectively in them all."
         },
         "zachary": {
-            "image": "zachary.jpg",
-            "name": "Zachary Cliff",
+            "image": "hemanth.jpg",
+            "name": "Hemanth Ramkumar",
             "text": "As Manufacture Engineer, I am responsible for researching and advising the team on the best production methods for our Formula 1 car, which is mainly to be made via a CNC machine."
         },
         "hemanth": {
-            "image": "hemanth.jpg",
-            "name": "Hemanth Ramkumar",
+            "image": "zachary.jpg",
+            "name": "Zachary Cliff",
             "text": "As Design Engineer, I am responsible for leading the design of the car and making sure that it fits the extensive technical regulations.<br><br>I collaborated heavily with the rest of the team to turn their ideas into the best car possible and Team Leader Hugh for virtual wind tunnelling."
         },
         "elizabeth": {
@@ -68,17 +68,7 @@
         "title": "Competitions",
         "f1": {
             "image": "f1.png",
-            "text": "We are pleased to announce that we have entered the F1 in schools competition. In this competition, we design and manufacture a miniature Formula 1 car. We compete with other teams to see which team's car can travel a short distance the fastest! An integral part of the competition is acquiring sponsors, so if you would like to help us on our journey, please <a href=\"#contact\">contact us</a>."
-        },
-        "bbf": {
-            "image": "big-bang-fair-logo.png",
-            "text": "We are pleased to announce that we have entered the <a href=\"https://competition.thebigbangfair.co.uk\">Big Bang Fair</a> competition. Preliminary designs to follow shortly!<br><br>We are going to be focusing on the idea of \"Revolutionising Space Travel\" surrounding the use of <a href=\"https://en.wikipedia.org/wiki/Cyanobacteria\">cyanobacteria</a> (also known as blue-green algae) for air recycling and silica aerogel for aerogel particle capture.<br><br>Cyanobacteria caused the initial oxygenation of Earth's atmosphere, known as the Great Oxygenation Event. Several species, such as spirulina, are also edible, and high in a variety of nutrients. Our project revolves around cultivating these beneficial microbes to provide oxygen to astronauts without the issues of raising plants in space. We are also looking into bringing to light the fascinating material of silica aerogel and how it can develop space travel, exploration and survival."
-        },
-        "esa": {
-            "image": "esa.png",
-            "title": "ESA Cansat",
-            "text": "We are pleased to announce that we have entered the <a href=\"http://www.esa.int/Education/CanSat\">ESA Cansat</a> competition. The competition involves making a miniature satellite within the dimensions of a drinks can.<br><br>We have chosen to design our CanSat to carry out early exploration of an exoplanet. It could, however, also have applications on Earth. Our design centres around photogrammetry: taking photos of the surface of the Earth and building them into a 3D model. To allow us sufficient time for this on our descent, we will be manufacturing a parafoil. We are currently investigating using two-axis control of the parafoil to control our descent. We also plan to carry out the new and revolutionary aerogel particle capture. This uses a material called silica aerogel to obtain particles, which can then be analysed."
-        }
+            "text": "We are pleased to announce that we came second in the East of England Regional Finals, meaning that we progress onto the National Final this October. In this competition, we design and manufacture a miniature Formula 1 car. We compete with other teams to see which team's car can travel a short distance the fastest! An integral part of the competition is acquiring sponsors, so if you would like to help us on our journey, please <a href=\"#contact\">contact us</a>."       
     },
     "contact": {
         "title": "Contact us"
