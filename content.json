@@ -9,9 +9,9 @@
         },
         {
             "image": "wall res.png",
-            "title": "Nationals Car in Design Process",
-            "smallText": "After the regional competiton, we have found new ways to improve our car's performance.",
-            "fullText": "Hugh stated: \"As I design our new car, I am particualrly focussing on developing the air flow around the back wing, along with developing new ideas to reduce the drag around the rest of the car.\"",
+            "title": "Nomination for Research and Development Award at the National Finals",
+            "smallText": "We have recently competed in the UK national finals of F1 in schools.",
+            "fullText": "Team Leader Hugh: \"I would like to thank F1 in schools for all their amazing work and shows this season. We have had a lot of fun competing this year in F1 in schools. I would like to thank my team for all their hard work and dedication, without which we could not have got as far as we did in our first year in the competiton. I would also like to thank our sponsors.\"",
             "hasExpandedImage": true,
             "expandedImage": "shiny.png",
             "hasCaption": true,
@@ -71,7 +71,7 @@
             "text": "We are pleased to announce that we came second in the East of England Regional Finals, meaning that we progress onto the National Final this October. In this competition, we design and manufacture a miniature Formula 1 car. We compete with other teams to see which team's car can travel a short distance the fastest! An integral part of the competition is acquiring sponsors, so if you would like to help us on our journey, please <a href=\"#contact\">contact us</a>."       
     },
     "contact": {
-        "title": "Contact us"
+        "title": "Contact us",
     }
 }
 }
